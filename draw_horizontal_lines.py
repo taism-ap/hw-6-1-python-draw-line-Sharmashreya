@@ -1,3 +1,4 @@
+from PIL import Image
 def draw_horizontal_lines():
   import random as rand
   img = Image.new("1",[100,100])
